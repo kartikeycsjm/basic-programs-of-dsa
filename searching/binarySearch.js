@@ -14,7 +14,6 @@ const BinarySearch=(a,t)=>{
         }
     }
 }
-
 const arr=[3,5,44,55]
 const target=5;
 console.log(BinarySearch(arr,target));
